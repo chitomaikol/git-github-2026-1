@@ -1,4 +1,5 @@
 #este cambio fue echo por camilo
+#soy yo maikol con tomihot
 class Olympics:
     
     def __init__(self):
